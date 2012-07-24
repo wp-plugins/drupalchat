@@ -25,7 +25,7 @@ Features
 * Notifies user by blinking browser title bar and chat popup when a new chat message is received
 
 
-PS: You'll need an [iFlyChat.com API key](https://iflychat.com) to use it. Keys are free for personal blogs, with paid subscriptions available for businesses and commercial sites.
+PS: You'll need an [iFlyChat.com API key](https://iflychat.com) to use it.
 
 == Installation ==
 
