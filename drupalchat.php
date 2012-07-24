@@ -1,14 +1,14 @@
 <?php
 /**
  * @package drupalchat
- * @version 1.0
+ * @version 1.0.1
  */
 /*
 Plugin Name: iFlyChat
 Plugin URI: http://wordpress.org/extend/plugins/drupalchat/
 Description: One on one chat 
 Author: Shashwat Srivastava, Shubham Gupta, Varun Kapoor - iFlyChat Team
-Version: 1.0
+Version: 1.0.1
 Author URI: https://iflychat.com/
 */
 
