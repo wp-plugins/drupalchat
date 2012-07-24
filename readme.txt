@@ -1,4 +1,4 @@
-=== iFlyChat ===
+=== iFlyChat (DrupalChat) ===
 Contributors: darklrd
 Tags: chat
 Requires at least: 3.0
