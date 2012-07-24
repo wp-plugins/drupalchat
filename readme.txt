@@ -10,7 +10,7 @@ iFlychat provides one on one chat and Public Chatroom for your website.
 
 == Description ==
 
-iFlyChat (also known as DrupalChat) allows visitors of your Wordpress site to chat with each other privately or together in a public chatroom. This plugin enables sites to provide online support for their products/services, and thereby increases user engagement. Also, it is useful for social networking sites, forums, blogs, etc. It logs the user conversations so that they can be later viewed in message inbox. You can try it out live [here] (https://iflychat.com).
+iFlyChat (also known as DrupalChat) allows visitors of your Wordpress site to chat with each other privately or together in a public chatroom. This plugin enables sites to provide online support for their products/services, and thereby increases user engagement. Also, it is useful for social networking sites, forums, blogs, etc. It logs the user conversations so that they can be later viewed in message inbox. You can try it out live [here](https://iflychat.com).
 
 Features
 
