@@ -29,6 +29,8 @@ PS: You'll need an [iFlyChat.com API key](https://iflychat.com) to use it.
 
 == Installation ==
 
-Upload the iFlyChat plugin to your blog, Activate it, then enter your [iFlyChat.com API key](https://iflychat.com).
-
-1, 2, 3: You're done!
+* Upload the iFlyChat plugin to your WordPress site.
+* Activate it.
+* Get [iFlyChat.com API key](https://iflychat.com).
+* Detailed installation steps - https://iflychat.com/installation-wordpress.
+* You're done!
